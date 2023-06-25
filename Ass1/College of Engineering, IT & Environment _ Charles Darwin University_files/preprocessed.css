@@ -1,0 +1,1 @@
+.tile__image image{-webkit-mask:url(#mask);mask:url(#mask)}.tile--news .tile__image image{-webkit-mask:url(#mask-bottom);mask:url(#mask-bottom)}.cta__image image{-webkit-mask:url(#mask-bottom);mask:url(#mask-bottom)}.article-list__image image,.article__title__image image{-webkit-mask:url(#mask-bottom);mask:url(#mask-bottom)}
